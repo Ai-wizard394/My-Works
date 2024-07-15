@@ -21,7 +21,7 @@ This script implements an advanced proxy detection system using Python. It utili
 ### Speech_Recognition.py
 This script demonstrates a speech recognition system developed in Python. It employs machine learning techniques to convert spoken language into text, suitable for applications like voice-controlled interfaces or automated transcription.
 
-- You can find the code Speech_Recognition.py.
+- You can find the code here : https://github.com/Ai-wizard394/My-Works/blob/main/Speech_Recognition.py.
 
 ## Contributing
 Feel free to explore, use, and contribute to the projects in this repository! If you have suggestions, bug fixes, or improvements, please fork the repository and submit a pull request.
