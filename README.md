@@ -15,6 +15,7 @@ Welcome to my repository! This collection showcases various projects and scripts
 ## File Descriptions
 ### Proxy_Detection.py
 This script implements an advanced proxy detection system using Python. It utilizes machine learning models to detect unauthorized proxies during online assessments, ensuring exam integrity.
+The documentation of code can be found here: https://github.com/Ai-wizard394/My-Works/blob/main/Proxy_Detection_Documentation.pdf
 
 - You can find the code here: https://github.com/Ai-wizard394/My-Works/blob/main/Proxy_Detection.py.
 
