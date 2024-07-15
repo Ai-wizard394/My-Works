@@ -16,7 +16,7 @@ Welcome to my repository! This collection showcases various projects and scripts
 ### Proxy_Detection.py
 This script implements an advanced proxy detection system using Python. It utilizes machine learning models to detect unauthorized proxies during online assessments, ensuring exam integrity.
 
-- You can find the code [here](link-to-your-proxy-detection.py).
+- You can find the code here: https://github.com/Ai-wizard394/My-Works/blob/main/Proxy_Detection.py.
 
 ### Speech_Recognition.py
 This script demonstrates a speech recognition system developed in Python. It employs machine learning techniques to convert spoken language into text, suitable for applications like voice-controlled interfaces or automated transcription.
