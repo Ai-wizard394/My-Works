@@ -1,5 +1,5 @@
 '''
-Project name: Proxy_Patrol
+
 '''
 import pyaudio  # Library for audio input and output
 import webrtcvad  # Library for voice activity detection
