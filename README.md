@@ -29,4 +29,4 @@ Feel free to explore, use, and contribute to the projects in this repository! If
 The link to repository: https://github.com/Ai-wizard394/My-Works
 
 ## About the Author
-I am a Computer Science Engineering undergraduate student in my pre-final year. My interests lie in AI/ML, robotics, defense technology, and aerospace. Coding is not just a passion but a gateway for me to explore and contribute to the exciting world of technology.
+I am a Computer Science Engineering undergraduate student in my pre-final year. My interest towards are AI&ML, robotics, defense technology, and aerospace. Coding is not just a passion but a gateway for me to explore and contribute to the exciting world of technology.
